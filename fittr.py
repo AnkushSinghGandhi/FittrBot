@@ -8,16 +8,20 @@ driver = webdriver.Chrome()
 driver.get("https://www.fittr.com/dashboard/home/social/all")
 
 email = input("Enter email to sign in : ")
+
 #password = input("Enter password")
 #profile = input("Enter profile link")
 
 # add post
 add_post = driver.find_element_by_css_selector(".addpost_btn")
 add_post.click()
+time.sleep(2)
 
 # recipie button
-recipe = driver.find_element_by_xpath("//*[contains(text(), 'Recipe')]")
+recipe = driver.find_element_by_xpath('/html/body/div[3]/div[3]/div[2]/main/div[1]/div[1]/div/nav/div[3]/div/div/div/div[2]/span[3]')
 recipe.click()
+time.sleep(1)
+#pyautogui.click(472, 290)
 
 # image upload
 imageupload = driver.find_element_by_xpath("//input[@type='file']")
@@ -68,6 +72,7 @@ directions.send_keys("1) Hard boil eggs on the stovetop or in the instant pot an
 
 # post
 post = driver.find_element_by_xpath('//*[@id="post-wrapper-sidebar"]/div/div/div[3]/div/form/div[7]/button')
+time.sleep(4)
 post.click()
 
 
