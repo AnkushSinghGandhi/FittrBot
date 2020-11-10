@@ -1,0 +1,515 @@
+1605012210405	geckodriver	INFO	Listening on 127.0.0.1:35783
+1605012211417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep9Suxa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605012217844	Marionette	INFO	Listening on port 37169
+1605012218006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.fittr.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1605012358498	geckodriver	INFO	Listening on 127.0.0.1:51701
+1605012358510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1vTAOx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605012364619	Marionette	INFO	Listening on port 39519
+1605012364726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605012508806	geckodriver	INFO	Listening on 127.0.0.1:34613
+1605012508817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeUsVIH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605012515037	Marionette	INFO	Listening on port 34389
+1605012515116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605012572774	geckodriver	INFO	Listening on 127.0.0.1:60283
+1605012572786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileump5M4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605012579226	Marionette	INFO	Listening on port 33967
+1605012579378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605012767853	Marionette	INFO	Stopped listening on port 33967
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605012773722	Marionette	INFO	Stopped listening on port 34389
+1605012778570	Marionette	INFO	Stopped listening on port 39519
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605012782751	Marionette	INFO	Stopped listening on port 37169
+1605012787353	geckodriver	INFO	Listening on 127.0.0.1:36951
+1605012787365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehwLvFN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605012793359	Marionette	INFO	Listening on port 34621
+1605012793454	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.fittr.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605012881616	Marionette	INFO	Stopped listening on port 34621
+1605012907141	geckodriver	INFO	Listening on 127.0.0.1:40803
+1605012907156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMMv48v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605012913775	Marionette	INFO	Listening on port 41035
+1605012913870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605012968825	Marionette	INFO	Stopped listening on port 41035
+1605012995322	geckodriver	INFO	Listening on 127.0.0.1:34487
+1605012995333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVempzG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605013001663	Marionette	INFO	Listening on port 42319
+1605013001838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605013041469	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605013527496	geckodriver	INFO	Listening on 127.0.0.1:34377
+1605013527507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBa9lI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605013533687	Marionette	INFO	Listening on port 40749
+1605013533810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605013581970	Marionette	INFO	Stopped listening on port 40749
+1605013607757	geckodriver	INFO	Listening on 127.0.0.1:42071
+1605013607770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL5BhcV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605013613959	Marionette	INFO	Listening on port 35135
+1605013614060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+1605013663754	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605013859083	Marionette	INFO	Stopped listening on port 35135
+1605013862974	geckodriver	INFO	Listening on 127.0.0.1:55787
+1605013862985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuMvAgQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605013869187	Marionette	INFO	Listening on port 35619
+1605013869428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605013929533	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.html is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605014050843	Marionette	INFO	Stopped listening on port 35619
+1605014070046	geckodriver	INFO	Listening on 127.0.0.1:34813
+1605014070063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledRdDKo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605014076283	Marionette	INFO	Listening on port 40439
+1605014076361	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Error: Request failed with status code 401
+JavaScript error: , line 0: uncaught exception: Object
+1605014204571	geckodriver	INFO	Listening on 127.0.0.1:55255
+1605014204582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1hziHe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605014210983	Marionette	INFO	Listening on port 34611
+1605014211104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605014256173	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.html is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605014646106	Marionette	INFO	Stopped listening on port 34611
+1605014701556	geckodriver	INFO	Listening on 127.0.0.1:34395
+1605014701569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileezDLxC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605014707699	Marionette	INFO	Listening on port 45039
+1605014707857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605014764535	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.html is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605014988505	Marionette	INFO	Stopped listening on port 45039
+1605015010539	geckodriver	INFO	Listening on 127.0.0.1:34329
+1605015010558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefTmAnB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605015017109	Marionette	INFO	Listening on port 40125
+1605015017249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605015424173	Marionette	INFO	Stopped listening on port 40125
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605015428659	Marionette	INFO	Stopped listening on port 42319
+1605015434105	geckodriver	INFO	Listening on 127.0.0.1:48213
+1605015434116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile55Z2ui"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605015440104	Marionette	INFO	Listening on port 33409
+1605015440205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605015540324	Marionette	INFO	Stopped listening on port 33409
+1605016379412	geckodriver	INFO	Listening on 127.0.0.1:35005
+1605016379423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuU1Pka"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605016385659	Marionette	INFO	Listening on port 35713
+1605016385812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605016600877	Marionette	INFO	Stopped listening on port 35713
+1605016608575	geckodriver	INFO	Listening on 127.0.0.1:40735
+1605016608590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemFJGqS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605016614491	Marionette	INFO	Listening on port 46645
+1605016614587	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605016675367	Marionette	INFO	Stopped listening on port 46645
+1605016688410	geckodriver	INFO	Listening on 127.0.0.1:38531
+1605016688423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Og1sc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605016694342	Marionette	INFO	Listening on port 45513
+1605016694420	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605017078883	Marionette	INFO	Stopped listening on port 45513
+1605017102855	geckodriver	INFO	Listening on 127.0.0.1:33433
+1605017102866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebvGVZ7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605017108782	Marionette	INFO	Listening on port 44597
+1605017108860	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605017171963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.html is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605020845135	Marionette	INFO	Stopped listening on port 44597
+1605020933632	geckodriver	INFO	Listening on 127.0.0.1:52061
+1605020933642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefT0hdg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605020938941	Marionette	INFO	Listening on port 36025
+1605020939037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+1605021044930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605021359715	geckodriver	INFO	Listening on 127.0.0.1:37955
+1605021359723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4zHrH5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605021364773	Marionette	INFO	Listening on port 36363
+1605021364908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+1605021438537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.searchWord is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605022344169	Marionette	INFO	Stopped listening on port 36363
+1605022344169	Marionette	INFO	Stopped listening on port 36025
+1605022684898	geckodriver	INFO	Listening on 127.0.0.1:44223
+1605022684909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUyHgB8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605022690106	Marionette	INFO	Listening on port 34857
+1605022690194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+1605022854232	Marionette	INFO	Stopped listening on port 34857
+1605022857654	geckodriver	INFO	Listening on 127.0.0.1:60191
+1605022857664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEgemlI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605022862987	Marionette	INFO	Listening on port 45853
+1605022863160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fittr.com/dashboard/static/js/2.4a1011d0.chunk.js, line 1: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=t for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605023016068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.fittr.com/dashboard/static/js/main.1e391d74.chunk.js, line 1: TypeError: e.state.html is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605023304424	Marionette	INFO	Stopped listening on port 45853
